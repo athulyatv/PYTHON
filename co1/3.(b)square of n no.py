@@ -6,4 +6,3 @@ for i in range(1,n+1):
 print(listi)
 newlist=[x**2 for x in listi]
 print(newlist)
-© 2021 GitHub, Inc.
