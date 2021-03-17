@@ -23,4 +23,3 @@ for i in list1:
     for j in list2:
         if i==j:
             print(j,"occur in both")
-© 2021 GitHub, Inc.
