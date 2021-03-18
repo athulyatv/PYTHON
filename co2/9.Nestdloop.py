@@ -11,4 +11,4 @@ for i in range(9):
             print(end='*')
             j-=1
         print(end='\n')
-© 2021 GitHub, Inc.
+
